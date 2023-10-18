@@ -118,7 +118,7 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 ### Overview
 
-- **Total Estimated Duration:** 2-3 Months
+- **Total Estimated Duration:** 3.5 Months
 - **Full-Time Equivalent (FTE):** 3.5 FTE
 - **Total Costs:** 
 
