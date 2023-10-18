@@ -19,7 +19,7 @@ This project aims to implement environment definitions through [Kurtosis package
 
 #### Supporting Implementations
 - [D.I.V.E](https://github.com/HugoByte/DIVE): A powerful utility designed to streamline the entire process of node setup, network configurations, smart contract build and deployment currently supporting Ethereum, Cosmos and ICON.
-- [POC](https://github.com/HugoByte/PoCs/tree/master/polkadot-kurtosis-poc): A minimal kurtosis package able to deploy a single node of westend and local ralay chain with single parachain.
+- [POC](https://github.com/HugoByte/PoCs/tree/master/polkadot-kurtosis-poc): A minimal kurtosis package able to deploy a single node of westend and local relay chain with single parachain.
 
 #### Components
 
