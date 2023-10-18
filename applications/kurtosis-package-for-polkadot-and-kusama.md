@@ -170,6 +170,7 @@ Previously funded Web3 Foundation grant:
 | **0a.** | License | Apache 2.0 |
 | **0b.** | Documentation | We will provide document for the Research performed |
 | **0c.** | Testing and Testing Guide | N/A |
+| **0d.** | Docker | N/A |
 | **0e.** | Article | We will write a Medium article that explains the work done as part of the grant |
 | 1. | R&D for Bridge Setup |  Research and Documentation for packages for bridge setup |
 | 2. | R&D for One click Node deployment | Research and Documentation to enable one click deployment for Collators, Parachains and Validators |
