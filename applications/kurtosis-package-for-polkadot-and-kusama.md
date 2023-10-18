@@ -114,14 +114,14 @@ Previously funded Web3 Foundation grant:
 
 ### Overview
 
-- **Total Estimated Duration:** 3.5 Months
-- **Full-Time Equivalent (FTE):** 3.5 FTE
+- **Total Estimated Duration:**
+- **Full-Time Equivalent (FTE):**
 - **Total Costs:** 
 
 ### Milestone 1 — Kurtosis Package for Localnet, Testnet and Mainnet setup
 
-- **Estimated duration:** 1.5 month
-- **FTE:**  2.5
+- **Estimated duration:**
+- **FTE:**
 - **Costs:** 
 
 
@@ -139,10 +139,10 @@ Previously funded Web3 Foundation grant:
 | 6. | Parachain Network Setup (Relay + Parachain + Validator + RPC + Collator Node) | This configuration targets to create a full fledge Parachain network. |
 
 
-### Milestone 2  — Kurtosis Package for chopstick, Explorer and Integration with Zombienet 
+### Milestone 2  — Kurtosis Package for chopstick, Explorer, Prometheus, Grafana and Integration with Zombienet 
 
-- **Estimated duration:** 1.5 month
-- **FTE:**  3.5
+- **Estimated duration:**
+- **FTE:**
 - **Costs:** 
 
 
@@ -156,12 +156,13 @@ Previously funded Web3 Foundation grant:
 | 2. | Kurtosis provider for Zombienet | This will be created as PR to enable to use Kurtosis as one of the provider to use above packages for deployment |
 | 3. | Test Script for message testing | This will be robust test script to run automated test using the above packages |
 | 4. | Explorer deployment package | This contains package definitions for deploying Polkadot.JS Explorer |
-| 5. | R&D for Custom Parachain build package | Research and Documentation to create a build package to build images for parachains by injecting the binaries | 
+| 5. | Prometheus and Grafana package | This package will include Custom Parachain build package for Metrics and observability |
 
-### Milestone 3  — R&D for Bridge and One click Node deployment 
 
-- **Estimated duration:** 0.5 month
-- **FTE:**  3
+### Milestone 3  — R&D for Bridge, One click Node deployment and Custom Parachain build package
+
+- **Estimated duration:**
+- **FTE:**
 - **Costs:** 
 
 | Number | Deliverable | Specification |
@@ -172,6 +173,7 @@ Previously funded Web3 Foundation grant:
 | **0e.** | Article | We will write a Medium article that explains the work done as part of the grant |
 | 1. | R&D for Bridge Setup |  Research and Documentation for packages for bridge setup |
 | 2. | R&D for One click Node deployment | Research and Documentation to enable one click deployment for Collators, Parachains and Validators |
+| 3. | R&D for Custom Parachain build package | Research and Documentation to create a build package to build images for parachains by injecting the binaries | 
 
 ## Future Plans
 
