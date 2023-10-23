@@ -8,7 +8,7 @@
 
 ### Overview
 
-This project aims to implement environment definitions through [Kurtosis package](https://docs.kurtosis.com/concepts-reference/packages) for Polkadot and Kusama. The Kurtosis services and API are designed to simplify the process of deploying various nodes and services in development, testing, and production environments eliminating complicated steps and minimizing dependencies. This package will serve as a one-stop solution for all the node deployments across the substrate ecosystem. It will be capable of setting up nodes, development, and testing utilities, such as Chopstick, and Zombienet, explorers, and can be extended to support bridges.
+This project aims to create and implement environment definitions through [Kurtosis package](https://docs.kurtosis.com/concepts-reference/packages) for Polkadot and Kusama.  Kurtosis services and API are designed to simplify the process of deploying various nodes and services in development, testing, and production environments, eliminating complicated steps and minimizing dependencies. This package will serve as a one-stop solution for all the node deployments across the substrate ecosystem. It will be capable of setting up nodes, development and testing utilities such as Chopstick and Zombienet, explorers, and can be extended to support bridges.
 
 ### Project Details
 
@@ -22,7 +22,7 @@ Docker is a software platform that allows you to build, test, and deploy applica
 #### Supporting Implementations
 
 - [D.I.V.E](https://github.com/HugoByte/D.I.V.E): A powerful toolkit designed to streamline the entire process of node, bridges setup, network configurations, smart contract build and deployment currently supporting Ethereum, Cosmos and ICON ecosystems.
-- [POC](https://github.com/HugoByte/PoCs/tree/master/polkadot-kurtosis-poc): A minimal Kurtosis package able to deploy a single node of Westend and local relay chain with single parachain.
+- [POC](https://github.com/HugoByte/PoCs/tree/master/polkadot-kurtosis-poc): A minimal Kurtosis package able to deploy a single node of Westend and local relay chain with a single parachain.
 
 #### Components
 
@@ -78,15 +78,15 @@ Docker is a software platform that allows you to build, test, and deploy applica
 
 With the impending core changes in Coretime, extensive testing and multiple re-deployments will be essential. This project's primary objective is to create a comprehensive deployment solution for the Polkadot and Kusama ecosystems.
 
-This package is set to usher in a paradigm shift in parachain development. One of its standout features is its capability to create new parachains through the simple authoring of a basic configuration file. Moreover, it will not be limited to deploying just the relay chain for Polkadot and Kusama, but will also support the deployment of parachains.
+Implementing Kurtosis packages represents a paradigm shift in parachain development. One of its standout features is its capability to create new parachains through the simple authoring of a basic configuration file. Moreover, it will not only be limited to deploying just the relay chain for Polkadot and Kusama, but also will also support the deployment of parachains.
 
 This versatile package will cater to a range of node types, including validator nodes, RPC nodes, collator nodes, and archival nodes. It will further offer deployment options for both cloud and local environments, ensuring flexibility and convenience.
 
 Kurtosis is a multi-container system that simplifies the deployment process and enables the running of multiple blockchain nodes. This feature significantly reduces the amount of time and effort required to set up nodes individually and makes the deployment process more efficient.
 
-Moreover, the dynamic setup of nodes can be a source of errors. For instance, passing IPs or runtime-generated data between services or contracts can lead to errors during the setup. Kurtosis eliminates these issues, making the deployment process more reliable and error-free.
+Moreover, the dynamic setup of nodes can be a source of errors. For instance, passing IPs or runtime-generated data between services or contracts can lead to errors during setup. Kurtosis eliminates these issues, making the deployment process more reliable and error-free.
 
-By implementing Kurtosis, errors during deployment can be reduced, and it becomes easier to set up environments for development and testing purposes. It streamlines the entire process, allowing developers to focus on other essential tasks and enhancing the overall user experience.
+By implementing Kurtosis, errors during deployment are reduced and it becomes easier to spin up environments for development and testing purposes with just one line. It streamlines the entire process, allowing developers to focus on other essential tasks and enhances the overall user experience.
 
 #### Why use Kurtosis?
 
